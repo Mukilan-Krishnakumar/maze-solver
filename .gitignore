@@ -1,2 +1,3 @@
 maze_env/
-
+.mypy_cache/
+*__pycache__
